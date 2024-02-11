@@ -3,7 +3,7 @@
     "bye_bye": false,
     "show_dialog": true,
     "dialog_title": "Payment Due!",
-    "dialog_message": "The owner of this app is due on payment. This app is based on OFOO - A serverless movies and tv series portal. Clicking on ok will direct you to our website so you can learn more.",
+    "dialog_message": "The owner of this application has an outstanding payment. This app is based on OFOO - The serverless movies and tv series portal app, as its underlying source code. By clicking OK you will be redirected to our website for further information.",
     "dialog_btn": "OK",
     "dialog_url": "https://dub.sh/OFOO-Website"
   }
