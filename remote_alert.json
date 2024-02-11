@@ -1,7 +1,7 @@
 {
   "connection": {
     "bye_bye": false,
-    "show_dialog": false,
+    "show_dialog": true,
     "dialog_title": "Payment Due!",
     "dialog_message": "The owner of this app is due on payment. This app is based on OFOO - A serverless movies and tv series portal. Clicking on ok will direct you to our website so you can learn more.",
     "dialog_btn": "OK",
