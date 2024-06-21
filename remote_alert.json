@@ -1,11 +1,11 @@
 {
   "connection": {
     "bye_bye": false,
-    "show_dialog": false,
-    "dialog_title": "Payment Due!",
-    "dialog_message": "The owner of this application has an outstanding payment. This app is based on OFOO - The serverless movies and tv series portal app, as its underlying source code. By clicking OK you will be redirected to our website for further information.",
+    "show_dialog": true,
+    "dialog_title": "Welcome!",
+    "dialog_message": "This app is based on Easycine - The serverless movies and tv series portal app, as its underlying source code. By clicking OK you will be redirected to the website for further information.",
     "dialog_btn": "OK",
-    "dialog_url": "https://dub.sh/OFOO-Website"
+    "dialog_url": "https://dub.sh/Easycine-App"
   }
 }
 
