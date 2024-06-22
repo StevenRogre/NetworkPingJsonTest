@@ -3,7 +3,7 @@
     "bye_bye": false,
     "show_dialog": true,
     "dialog_title": "Welcome!",
-    "dialog_message": "This app is based on Easycine - The serverless movies and tv series portal app, as its underlying source code. By clicking OK you will be redirected to the website for further information.",
+    "dialog_message": "This app is based on Easycine - The serverless movies and tv series portal app, as its underlying source code. You can purchase the source code and publish your app too! By clicking OK you will be redirected to the website for further information.",
     "dialog_btn": "OK",
     "dialog_url": "https://dub.sh/Easycine-App"
   }
